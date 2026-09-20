@@ -1,0 +1,17 @@
+true_class,predicted_class,count
+5.Granite,1.Red sandstone,12
+6.Basalt,7.Marble,7
+5.Granite,7.Marble,5
+7.Marble,4.Mudstone,5
+3.Gray siltstone,4.Mudstone,4
+1.Red sandstone,2.Light sandstone,3
+2.Light sandstone,1.Red sandstone,3
+4.Mudstone,7.Marble,3
+6.Basalt,4.Mudstone,3
+6.Basalt,2.Light sandstone,3
+4.Mudstone,3.Gray siltstone,3
+4.Mudstone,2.Light sandstone,2
+3.Gray siltstone,7.Marble,2
+2.Light sandstone,4.Mudstone,1
+6.Basalt,1.Red sandstone,1
+6.Basalt,5.Granite,1

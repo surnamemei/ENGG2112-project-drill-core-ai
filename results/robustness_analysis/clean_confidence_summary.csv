@@ -1,0 +1,2 @@
+dataset,num_images,num_correct,num_incorrect,mean_confidence_correct,mean_confidence_incorrect
+clean,7000,6995,5,0.9990314100451603,0.7278831243515015
