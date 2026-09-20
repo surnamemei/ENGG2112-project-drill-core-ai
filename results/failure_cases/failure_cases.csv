@@ -1,0 +1,59 @@
+dataset_index,source_path,true_class,predicted_class,confidence,confusion_pair
+1216,DCID/noise-512-7/test/4.Mudstone/4.Mudstone_noise_113.jpg,4.Mudstone,7.Marble,0.9999983310699463,4.Mudstone -> 7.Marble
+830,DCID/noise-512-7/test/3.Gray siltstone/3.Gray siltstone_noise_126.jpg,3.Gray siltstone,4.Mudstone,0.999971866607666,3.Gray siltstone -> 4.Mudstone
+1758,DCID/noise-512-7/test/5.Granite/5.Granite_noise_241.jpg,5.Granite,1.Red sandstone,0.9995396137237549,5.Granite -> 1.Red sandstone
+2452,DCID/noise-512-7/test/7.Marble/7.Marble_noise_146.jpg,7.Marble,4.Mudstone,0.9994248151779175,7.Marble -> 4.Mudstone
+821,DCID/noise-512-7/test/3.Gray siltstone/3.Gray siltstone_noise_118.jpg,3.Gray siltstone,4.Mudstone,0.9982796907424927,3.Gray siltstone -> 4.Mudstone
+2435,DCID/noise-512-7/test/7.Marble/7.Marble_noise_130.jpg,7.Marble,4.Mudstone,0.9977931976318359,7.Marble -> 4.Mudstone
+1766,DCID/noise-512-7/test/5.Granite/5.Granite_noise_249.jpg,5.Granite,1.Red sandstone,0.9974474906921387,5.Granite -> 1.Red sandstone
+2242,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_317.jpg,6.Basalt,4.Mudstone,0.9956592321395874,6.Basalt -> 4.Mudstone
+2466,DCID/noise-512-7/test/7.Marble/7.Marble_noise_159.jpg,7.Marble,4.Mudstone,0.9905617833137512,7.Marble -> 4.Mudstone
+1952,DCID/noise-512-7/test/5.Granite/5.Granite_noise_56.jpg,5.Granite,7.Marble,0.9648701548576355,5.Granite -> 7.Marble
+1296,DCID/noise-512-7/test/4.Mudstone/4.Mudstone_noise_186.jpg,4.Mudstone,7.Marble,0.9631630778312683,4.Mudstone -> 7.Marble
+1495,DCID/noise-512-7/test/4.Mudstone/4.Mudstone_noise_365.jpg,4.Mudstone,3.Gray siltstone,0.9569222331047058,4.Mudstone -> 3.Gray siltstone
+1973,DCID/noise-512-7/test/5.Granite/5.Granite_noise_75.jpg,5.Granite,1.Red sandstone,0.9518227577209473,5.Granite -> 1.Red sandstone
+1185,DCID/noise-512-7/test/3.Gray siltstone/3.Gray siltstone_noise_86.jpg,3.Gray siltstone,7.Marble,0.9417714476585388,3.Gray siltstone -> 7.Marble
+1958,DCID/noise-512-7/test/5.Granite/5.Granite_noise_61.jpg,5.Granite,1.Red sandstone,0.9325832724571228,5.Granite -> 1.Red sandstone
+292,DCID/noise-512-7/test/1.Red sandstone/1.Red sandstone_noise_362.jpg,1.Red sandstone,2.Light sandstone,0.916955292224884,1.Red sandstone -> 2.Light sandstone
+1540,DCID/noise-512-7/test/4.Mudstone/4.Mudstone_noise_45.jpg,4.Mudstone,3.Gray siltstone,0.8984300494194031,4.Mudstone -> 3.Gray siltstone
+2383,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_84.jpg,6.Basalt,7.Marble,0.8879266381263733,6.Basalt -> 7.Marble
+1386,DCID/noise-512-7/test/4.Mudstone/4.Mudstone_noise_267.jpg,4.Mudstone,2.Light sandstone,0.872252881526947,4.Mudstone -> 2.Light sandstone
+1938,DCID/noise-512-7/test/5.Granite/5.Granite_noise_43.jpg,5.Granite,1.Red sandstone,0.8564848899841309,5.Granite -> 1.Red sandstone
+559,DCID/noise-512-7/test/2.Light sandstone/2.Light sandstone_noise_242.jpg,2.Light sandstone,1.Red sandstone,0.8493081331253052,2.Light sandstone -> 1.Red sandstone
+1751,DCID/noise-512-7/test/5.Granite/5.Granite_noise_235.jpg,5.Granite,7.Marble,0.8488748669624329,5.Granite -> 7.Marble
+540,DCID/noise-512-7/test/2.Light sandstone/2.Light sandstone_noise_225.jpg,2.Light sandstone,4.Mudstone,0.8452469110488892,2.Light sandstone -> 4.Mudstone
+158,DCID/noise-512-7/test/1.Red sandstone/1.Red sandstone_noise_241.jpg,1.Red sandstone,2.Light sandstone,0.8241720199584961,1.Red sandstone -> 2.Light sandstone
+2463,DCID/noise-512-7/test/7.Marble/7.Marble_noise_156.jpg,7.Marble,4.Mudstone,0.8234712481498718,7.Marble -> 4.Mudstone
+2479,DCID/noise-512-7/test/7.Marble/7.Marble_noise_170.jpg,7.Marble,4.Mudstone,0.8040503859519958,7.Marble -> 4.Mudstone
+1970,DCID/noise-512-7/test/5.Granite/5.Granite_noise_72.jpg,5.Granite,1.Red sandstone,0.8033584356307983,5.Granite -> 1.Red sandstone
+1965,DCID/noise-512-7/test/5.Granite/5.Granite_noise_68.jpg,5.Granite,1.Red sandstone,0.7435481548309326,5.Granite -> 1.Red sandstone
+1953,DCID/noise-512-7/test/5.Granite/5.Granite_noise_57.jpg,5.Granite,7.Marble,0.7392964959144592,5.Granite -> 7.Marble
+1171,DCID/noise-512-7/test/3.Gray siltstone/3.Gray siltstone_noise_73.jpg,3.Gray siltstone,7.Marble,0.7326292991638184,3.Gray siltstone -> 7.Marble
+496,DCID/noise-512-7/test/2.Light sandstone/2.Light sandstone_noise_186.jpg,2.Light sandstone,1.Red sandstone,0.7249437570571899,2.Light sandstone -> 1.Red sandstone
+2375,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_77.jpg,6.Basalt,7.Marble,0.7156391143798828,6.Basalt -> 7.Marble
+1371,DCID/noise-512-7/test/4.Mudstone/4.Mudstone_noise_253.jpg,4.Mudstone,2.Light sandstone,0.7031992077827454,4.Mudstone -> 2.Light sandstone
+2324,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_391.jpg,6.Basalt,4.Mudstone,0.6915760040283203,6.Basalt -> 4.Mudstone
+2327,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_394.jpg,6.Basalt,4.Mudstone,0.6901150941848755,6.Basalt -> 4.Mudstone
+1957,DCID/noise-512-7/test/5.Granite/5.Granite_noise_60.jpg,5.Granite,1.Red sandstone,0.6441889405250549,5.Granite -> 1.Red sandstone
+2133,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_219.jpg,6.Basalt,1.Red sandstone,0.6367264986038208,6.Basalt -> 1.Red sandstone
+1778,DCID/noise-512-7/test/5.Granite/5.Granite_noise_26.jpg,5.Granite,7.Marble,0.6145627498626709,5.Granite -> 7.Marble
+1067,DCID/noise-512-7/test/3.Gray siltstone/3.Gray siltstone_noise_34.jpg,3.Gray siltstone,4.Mudstone,0.6053802967071533,3.Gray siltstone -> 4.Mudstone
+2037,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_132.jpg,6.Basalt,7.Marble,0.5878947377204895,6.Basalt -> 7.Marble
+469,DCID/noise-512-7/test/2.Light sandstone/2.Light sandstone_noise_161.jpg,2.Light sandstone,1.Red sandstone,0.5759842991828918,2.Light sandstone -> 1.Red sandstone
+2046,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_140.jpg,6.Basalt,2.Light sandstone,0.5722153782844543,6.Basalt -> 2.Light sandstone
+2154,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_238.jpg,6.Basalt,7.Marble,0.5656390190124512,6.Basalt -> 7.Marble
+2302,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_371.jpg,6.Basalt,7.Marble,0.5653898119926453,6.Basalt -> 7.Marble
+2313,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_381.jpg,6.Basalt,7.Marble,0.5636178255081177,6.Basalt -> 7.Marble
+1409,DCID/noise-512-7/test/4.Mudstone/4.Mudstone_noise_288.jpg,4.Mudstone,7.Marble,0.5472750663757324,4.Mudstone -> 7.Marble
+1188,DCID/noise-512-7/test/3.Gray siltstone/3.Gray siltstone_noise_89.jpg,3.Gray siltstone,4.Mudstone,0.532569169998169,3.Gray siltstone -> 4.Mudstone
+1319,DCID/noise-512-7/test/4.Mudstone/4.Mudstone_noise_206.jpg,4.Mudstone,3.Gray siltstone,0.5284155011177063,4.Mudstone -> 3.Gray siltstone
+363,DCID/noise-512-7/test/1.Red sandstone/1.Red sandstone_noise_66.jpg,1.Red sandstone,2.Light sandstone,0.5226411819458008,1.Red sandstone -> 2.Light sandstone
+1813,DCID/noise-512-7/test/5.Granite/5.Granite_noise_291.jpg,5.Granite,7.Marble,0.5178738236427307,5.Granite -> 7.Marble
+2178,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_26.jpg,6.Basalt,2.Light sandstone,0.48093876242637634,6.Basalt -> 2.Light sandstone
+2116,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_203.jpg,6.Basalt,5.Granite,0.4681446850299835,6.Basalt -> 5.Granite
+2153,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_237.jpg,6.Basalt,2.Light sandstone,0.46803176403045654,6.Basalt -> 2.Light sandstone
+1603,DCID/noise-512-7/test/5.Granite/5.Granite_noise_101.jpg,5.Granite,1.Red sandstone,0.4556475579738617,5.Granite -> 1.Red sandstone
+1668,DCID/noise-512-7/test/5.Granite/5.Granite_noise_160.jpg,5.Granite,1.Red sandstone,0.44515618681907654,5.Granite -> 1.Red sandstone
+2247,DCID/noise-512-7/test/6.Basalt/6.Basalt_noise_321.jpg,6.Basalt,7.Marble,0.40996384620666504,6.Basalt -> 7.Marble
+1665,DCID/noise-512-7/test/5.Granite/5.Granite_noise_158.jpg,5.Granite,1.Red sandstone,0.37619054317474365,5.Granite -> 1.Red sandstone
+1999,DCID/noise-512-7/test/5.Granite/5.Granite_noise_99.jpg,5.Granite,1.Red sandstone,0.3327065706253052,5.Granite -> 1.Red sandstone
