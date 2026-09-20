@@ -1,0 +1,2 @@
+threshold,total_images,base_accuracy,referred_count,referral_rate,referred_incorrect,referred_correct,error_capture_rate,correct_referral_rate,accepted_count,accepted_incorrect,accepted_accuracy
+0.97,2800,0.9792857142857143,175,0.0625,49,126,0.8448275862068966,0.045951859956236324,2625,9,0.9965714285714286
