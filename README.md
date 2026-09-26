@@ -319,8 +319,6 @@ python src/export_noisy_predictions.py
 python src/make_report_figures.py
 ```
 
-The final report source is in `report/` (`final_report.tex`, build with `latexmk -pdf`).
-
 ## Next Steps
 
 The classification stage is largely complete. The highest-value remaining work is:
