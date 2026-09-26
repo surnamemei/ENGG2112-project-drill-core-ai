@@ -234,7 +234,10 @@ ENGG2112-project-drill-core-ai/
 │   ├── analyze_robustness.py
 │   ├── confidence_threshold_analysis.py
 │   ├── select_confidence_threshold.py
-│   └── final_threshold_test.py
+│   ├── final_threshold_test.py
+│   ├── export_failure_cases.py
+│   ├── export_noisy_predictions.py
+│   └── make_report_figures.py
 ├── results/
 │   ├── figures/
 │   ├── models/
@@ -308,6 +311,15 @@ Run the final locked-threshold test:
 ```bash
 python src/final_threshold_test.py
 ```
+
+Export per-image noisy-test predictions and generate the final-report figures:
+
+```bash
+python src/export_noisy_predictions.py
+python src/make_report_figures.py
+```
+
+The final report source is in `report/` (`final_report.tex`, build with `latexmk -pdf`).
 
 ## Next Steps
 
